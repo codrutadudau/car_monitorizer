@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-
 site_url = "https://www.autovit.ro"
 page = requests.get(site_url)
 soup = BeautifulSoup(page.content, "html.parser")
@@ -20,7 +19,8 @@ def get_promoted_cars():
             if i.text.endswith('km'):
                 odometer = i.text
 
-def day_offer():
+
+def deal_of_the_day():
     offer = soup.find('section', class_='css-1i4x0sm e64f3h70')
     name = offer.find('h3', 'css-mf3iot css-10hph01 e1q5tycg0')
     price = offer.find('div', class_='css-13aaiz8 css-7tvyk6 e1ptxbj01')
@@ -34,4 +34,4 @@ def day_offer():
 
 if __name__ == '__main__':
     get_promoted_cars()
-    day_offer()
+    deal_of_the_day()
