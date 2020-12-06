@@ -1,68 +1,68 @@
 [
     {
-        "name": "Volkswagen Caddy 2.0",
-        "price": "10 915.97EUR",
-        "year": "2017",
-        "odometer": "106 641 km"
-    },
-    {
-        "name": "Land Rover Discovery",
-        "price": "43 990EUR",
-        "year": "2019",
-        "odometer": "9 077 km"
-    },
-    {
-        "name": "Jaguar F-Pace",
-        "price": "23 400EUR",
-        "year": "2017",
-        "odometer": "131 000 km"
-    },
-    {
-        "name": "BMW Seria 3 318i",
-        "price": "15 000EUR",
+        "name": "Toyota Auris",
+        "price": "14 201.68EUR",
         "year": "2016",
-        "odometer": "24 791 km"
+        "odometer": "37 353 km"
     },
     {
-        "name": "Skoda Superb 2.0",
-        "price": "15 546EUR",
-        "year": "2017",
-        "odometer": "89 755 km"
-    },
-    {
-        "name": "Toyota Hilux",
-        "price": "31 512EUR",
-        "year": "2020",
-        "odometer": "10 km"
-    },
-    {
-        "name": "Land Rover Range Rover Velar 2.0",
-        "price": "41 890EUR",
-        "year": "2018",
-        "odometer": "159 766 km"
-    },
-    {
-        "name": "Audi A4 2.0",
-        "price": "7 200EUR",
-        "year": "2011",
-        "odometer": "227 526 km"
-    },
-    {
-        "name": "Land Rover Range Rover Velar",
-        "price": "51 570EUR",
-        "year": "2019",
-        "odometer": "12 000 km"
-    },
-    {
-        "name": "Opel Astra 1.6",
-        "price": "5 990EUR",
+        "name": "Porsche Macan",
+        "price": "27 950EUR",
         "year": "2015",
-        "odometer": "132 626 km"
+        "odometer": "164 000 km"
     },
     {
-        "name": "BMW X5",
-        "price": "35 688EUR",
-        "year": "2016",
-        "odometer": "130 142 km"
+        "name": "BMW M5",
+        "price": "84 000EUR",
+        "year": "2018",
+        "odometer": "41 500 km"
+    },
+    {
+        "name": "Skoda Octavia 1.6",
+        "price": "9 655EUR",
+        "year": "2015",
+        "odometer": "49 418 km"
+    },
+    {
+        "name": "Volkswagen Polo",
+        "price": "2 350EUR",
+        "year": "2006",
+        "odometer": "170 000 km"
+    },
+    {
+        "name": "Mercedes-Benz GLB 250",
+        "price": "43 173EUR",
+        "year": "2020",
+        "odometer": "8 km"
+    },
+    {
+        "name": "Volkswagen Touran 2.0",
+        "price": "4 000EUR",
+        "year": "2008",
+        "odometer": "271 800 km"
+    },
+    {
+        "name": "Opel Mokka",
+        "price": "8 450EUR",
+        "year": "2015",
+        "odometer": "142 000 km"
+    },
+    {
+        "name": "Skoda Octavia 1.6",
+        "price": "12 500EUR",
+        "year": "2017",
+        "odometer": "87 906 km"
+    },
+    {
+        "name": "Audi Q3 2.0",
+        "price": "17 900EUR",
+        "year": "2015",
+        "odometer": "47 000 km"
+    },
+    {
+        "name": "Jaguar XE D180",
+        "price": "34 314EUR",
+        "year": "2019",
+        "odometer": "1 km"
     }
 ]
