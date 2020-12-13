@@ -72,6 +72,6 @@ def json_file():
 if __name__ == '__main__':
     while True:
         json_file()
-        time_wait = 3600
+        time_wait = 3600*24
         print(f"Waiting {time_wait} seconds... ")
         time.sleep(time_wait)
